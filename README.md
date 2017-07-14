@@ -7,7 +7,7 @@ First clone, instal and start [API server](https://github.com/dumannikolay/hello
 ```sh
 git clone git@github.com:dumannikolay/hello-world-api.git
 ```
-then clone, install, and start 
+then clone, install, and "npm start" to start dev-server 
 ```sh
 git clone git@github.com:dumannikolay/hello-world-app.git
 ```
